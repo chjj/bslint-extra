@@ -1,0 +1,24 @@
+{
+  "name": "bslint-extra",
+  "version": "0.0.0",
+  "description": "bslint extras",
+  "keywords": [
+    "bslint",
+    "config",
+    "eslint"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/chjj/bslint-extra.git",
+  "homepage": "https://github.com/chjj/bslint-extra",
+  "bugs": {
+    "url": "https://github.com/chjj/bslint-extra/issues"
+  },
+  "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
+  "main": "./index.js",
+  "scripts": {
+    "lint": "eslint index.js lib/"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
