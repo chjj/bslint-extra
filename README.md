@@ -1,11 +1,11 @@
-# bslint-extra
+# bslintrc
 
 Extra BS for BS Lint.
 
 ## Usage
 
 ``` js
-const js = require('bslint-extra');
+const js = require('bslintrc');
 
 module.exports = [
   js.configs.recommended,

@@ -1,5 +1,5 @@
 {
-  "name": "bslint-extra",
+  "name": "bslintrc",
   "version": "0.0.2",
   "description": "bslint extras",
   "keywords": [
@@ -8,10 +8,10 @@
     "eslint"
   ],
   "license": "MIT",
-  "repository": "git://github.com/chjj/bslint-extra.git",
-  "homepage": "https://github.com/chjj/bslint-extra",
+  "repository": "git://github.com/chjj/bslintrc.git",
+  "homepage": "https://github.com/chjj/bslintrc",
   "bugs": {
-    "url": "https://github.com/chjj/bslint-extra/issues"
+    "url": "https://github.com/chjj/bslintrc/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./index.js",
